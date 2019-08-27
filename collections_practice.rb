@@ -54,7 +54,7 @@ def add_s(array)
       binding.pry
     	element[index] << "s"
 	 else
-        element
+      element
     end
   end
 end
